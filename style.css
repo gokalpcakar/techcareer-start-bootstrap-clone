@@ -150,15 +150,11 @@ hr {
     font-size: 20px;
 }
 
-.aboutContent p {
-    padding: 0px 30px;
-}
-
-.btnSection {
+.btn-section {
     margin-top: 20px;
 }
 
-.btnDownload {
+.btn-download {
     border: 1px solid #ededed;
     border-radius: 10px;
     padding: 10px;
@@ -167,7 +163,7 @@ hr {
     transition: .2s;
 }
 
-.btnDownload:hover {
+.btn-download:hover {
     background-color: #ededed;
     color: rgb(44, 62, 80);
 }
